@@ -20,7 +20,7 @@ nav {
 }
 nav a {
     text-decoration: none;
-    color: #0d45ec;
+    color: #020818;
     font-size: 14px;
 }
 nav a:hover {
@@ -48,12 +48,12 @@ h1 {
     font-size: 80px;
     font-weight: normal;
 }
-<h1> span:nth-child(1) { color: #4285F4; }
-<h1> span:nth-child(2) { color: #EA4335; }
-<h1> span:nth-child(3) { color: #FBBC05; }
-<h1> span:nth-child(4) { color: #4285F4; }
-<h1> span:nth-child(5) { color: #34A853; }
-<h1> span:nth-child(6) { color: #EA4335; }
+h1 span:nth-child(1) { color: #4285F4; }
+h1 span:nth-child(2) { color: #EA4335; }
+h1 span:nth-child(3) { color: #FBBC05; }
+h1 span:nth-child(4) { color: #4285F4; }
+h1 span:nth-child(5) { color: #34A853; }
+h1 span:nth-child(6) { color: #EA4335; }
 
 form {
     width: 100%;
